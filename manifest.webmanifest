@@ -6,9 +6,9 @@
   "background_color": "#101B28",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/zebra-pwa-app/",
-  "start_url": "/zebra-pwa-app/",
-  "id": "/zebra-pwa-app/",
+  "scope": "/",
+  "start_url": "/",
+  "id": "/",
   "categories": ["utilities"],
   "screenshots": [
     {
@@ -59,7 +59,7 @@
       "name": "Home",
       "short_name": "Home",
       "description": "Go to the home page",
-      "url": "/zebra-pwa-app/app/home",
+      "url": "/app/home",
       "icons": [{ "src": "pwa-192x192.svg", "sizes": "192x192" }]
     }
   ],
